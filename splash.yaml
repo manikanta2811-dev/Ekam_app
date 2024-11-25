@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: C:\Users\Asus\StudioProjects\EKAMApp\assets\logos\EkamOrg.jpg
+  image_dark: C:\Users\Asus\StudioProjects\EKAMApp\assets\logos\EkamOrg.jpg
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: C:\Users\Asus\StudioProjects\EKAMApp\assets\logos\EkamOrg.jpg
+    image_dark: C:\Users\Asus\StudioProjects\EKAMApp\assets\logos\EkamOrg.jpg
+
+  web:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: C:\Users\Asus\StudioProjects\EKAMApp\assets\logos\EkamOrg.jpg
+    image_dark: C:\Users\Asus\StudioProjects\EKAMApp\assets\logos\EkamOrg.jpg
